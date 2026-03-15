@@ -1,0 +1,13 @@
+# Journal Entry UI
+
+Module: General Ledger
+
+Fields:
+- Transaction Date
+- Account selection (Debit/Credit)
+- Debit amount
+- Credit amount
+- Description
+
+Validation:
+Debit total must equal Credit total.
